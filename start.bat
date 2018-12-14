@@ -1,2 +1,2 @@
-node bot.js
+node Broadcast.js
 pause
